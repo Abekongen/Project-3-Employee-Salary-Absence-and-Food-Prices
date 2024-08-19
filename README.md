@@ -55,9 +55,7 @@ Based on the analysis, recommendations include:
 
 ![image_480](https://github.com/user-attachments/assets/8cc8c9ff-297c-4a76-92ef-1567a286841e)
 ![image_480](https://github.com/user-attachments/assets/0a5cc925-9cc4-4834-94c5-1cb33591dba5)
-![image_360](https://github.com/user-attachments/assets/42d0d0ca-57b3-472a-b2e8-e8e56eaf1aa9)
-![image_360](https://github.com/user-attachments/assets/f381a061-2597-486f-ae58-2c771f8238a5)
-![image_360](https://github.com/user-attachments/assets/92b6609e-31a3-407d-9221-c1ee0ebeebfc)
+
 
 ## Findings / What We Discovered
 - **Salary vs. Absences:** There is a clear negative correlation between the number of absences and average salary. Employees with more absences tend to have lower average salaries, suggesting that absence may influence performance assessments and salary increases.
@@ -65,6 +63,10 @@ Based on the analysis, recommendations include:
 - **Salaries by Food Price Category:** The analysis reveals that employees categorized under high food prices have the highest average salaries (63K), while employees in the low food price category have the lowest average salaries (61K). This suggests a potential relationship between salary levels and food accessibility.
 - **Food Price Distribution:** Over 53% of the total food prices fall into the low category, indicating that a majority of employees may be more accustomed to lower food costs, which could impact their discretionary spending.
 - **Trends in Absences:** Employees with fewer absences (1-5 days) show a trend towards higher salaries than those with more extensive absence records. This reinforces the idea that maintaining consistent attendance is linked to better financial outcomes for employees.
+
+![image_360](https://github.com/user-attachments/assets/42d0d0ca-57b3-472a-b2e8-e8e56eaf1aa9)
+![image_360](https://github.com/user-attachments/assets/f381a061-2597-486f-ae58-2c771f8238a5)
+![image_360](https://github.com/user-attachments/assets/92b6609e-31a3-407d-9221-c1ee0ebeebfc)
 
 ## Limitations
 - The dataset may not account for all factors influencing salary and absence relationships, such as job performance or external economic conditions.
